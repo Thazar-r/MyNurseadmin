@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@config '../../tailwind.config';
+@import './font';
+@import './normalize';
+@import 'color-calendar/dist/css/theme-basic';
+@import './color-calendar';
